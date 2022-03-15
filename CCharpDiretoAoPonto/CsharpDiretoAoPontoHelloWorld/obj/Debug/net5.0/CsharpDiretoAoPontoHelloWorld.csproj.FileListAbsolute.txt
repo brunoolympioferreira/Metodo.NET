@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.exe
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.deps.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.runtimeconfig.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\ref\CsharpDiretoAoPontoHelloWorld.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\ref\CsharpDiretoAoPontoHelloWorld.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.genruntimeconfig.cache
