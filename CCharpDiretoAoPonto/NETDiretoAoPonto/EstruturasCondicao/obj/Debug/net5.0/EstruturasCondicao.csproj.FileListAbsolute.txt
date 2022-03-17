@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\bin\Debug\net5.0\EstruturasCondicao.exe
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\bin\Debug\net5.0\EstruturasCondicao.deps.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\bin\Debug\net5.0\EstruturasCondicao.runtimeconfig.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\bin\Debug\net5.0\EstruturasCondicao.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\bin\Debug\net5.0\EstruturasCondicao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\bin\Debug\net5.0\ref\EstruturasCondicao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\bin\Debug\net5.0\EstruturasCondicao.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\obj\Debug\net5.0\EstruturasCondicao.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\obj\Debug\net5.0\EstruturasCondicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\obj\Debug\net5.0\EstruturasCondicao.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\obj\Debug\net5.0\EstruturasCondicao.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\obj\Debug\net5.0\EstruturasCondicao.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\obj\Debug\net5.0\EstruturasCondicao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\obj\Debug\net5.0\ref\EstruturasCondicao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\obj\Debug\net5.0\EstruturasCondicao.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasCondicao\obj\Debug\net5.0\EstruturasCondicao.genruntimeconfig.cache

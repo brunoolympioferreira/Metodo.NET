@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.exe
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.deps.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.runtimeconfig.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\bin\Debug\net5.0\ref\EstruturasRepeticao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\obj\Debug\net5.0\ref\EstruturasRepeticao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.genruntimeconfig.cache

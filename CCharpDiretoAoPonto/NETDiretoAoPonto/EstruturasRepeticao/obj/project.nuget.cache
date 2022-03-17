@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6lXIGxSoZrvC6y1H+V8atD18rml7PnW2mgLRNisd1YwlexaauIgVNRqsjTUrRcnU3eQ9rLhJBX1Y5Dxbn2QyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\Documents\\Cursos\\Medodo.NET\\CCharpDiretoAoPonto\\NETDiretoAoPonto\\EstruturasRepeticao\\EstruturasRepeticao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0ada24b-14a9-4b72-b79b-e2a686e09208": {
+      "ProjectGuid": "e0ada24b-14a9-4b72-b79b-e2a686e09208",
+      "DisplayName": "EstruturasCondicao",
+      "ColorIndex": 0
+    },
+    "26d41e7c-c394-41e1-b3eb-51ff17981e36": {
+      "ProjectGuid": "26d41e7c-c394-41e1-b3eb-51ff17981e36",
+      "DisplayName": "EstruturasRepeticao",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
