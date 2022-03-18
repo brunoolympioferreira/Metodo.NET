@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturasCondicao", "EstruturasCondicao\EstruturasCondicao.csproj", "{E0ADA24B-14A9-4B72-B79B-E2A686E09208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturasCondicao", "EstruturasCondicao\EstruturasCondicao.csproj", "{E0ADA24B-14A9-4B72-B79B-E2A686E09208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturasRepeticao", "EstruturasRepeticao\EstruturasRepeticao.csproj", "{26D41E7C-C394-41E1-B3EB-51FF17981E36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturasRepeticao", "EstruturasRepeticao\EstruturasRepeticao.csproj", "{26D41E7C-C394-41E1-B3EB-51FF17981E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComStrings", "TrabalhandoComStrings\TrabalhandoComStrings.csproj", "{EAC02368-FD80-4697-9D9C-B42C694CA9AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{26D41E7C-C394-41E1-B3EB-51FF17981E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26D41E7C-C394-41E1-B3EB-51FF17981E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26D41E7C-C394-41E1-B3EB-51FF17981E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC02368-FD80-4697-9D9C-B42C694CA9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC02368-FD80-4697-9D9C-B42C694CA9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC02368-FD80-4697-9D9C-B42C694CA9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC02368-FD80-4697-9D9C-B42C694CA9AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

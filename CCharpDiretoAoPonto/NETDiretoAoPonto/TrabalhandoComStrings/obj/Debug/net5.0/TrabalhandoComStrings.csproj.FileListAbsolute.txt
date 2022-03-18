@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.exe
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.deps.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.runtimeconfig.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\bin\Debug\net5.0\ref\TrabalhandoComStrings.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\bin\Debug\net5.0\TrabalhandoComStrings.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\obj\Debug\net5.0\ref\TrabalhandoComStrings.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\TrabalhandoComStrings\obj\Debug\net5.0\TrabalhandoComStrings.genruntimeconfig.cache
