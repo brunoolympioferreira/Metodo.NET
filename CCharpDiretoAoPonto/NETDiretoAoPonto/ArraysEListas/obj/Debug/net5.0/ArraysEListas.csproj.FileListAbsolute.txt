@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\bin\Debug\net5.0\ArraysEListas.exe
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\bin\Debug\net5.0\ArraysEListas.deps.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\bin\Debug\net5.0\ArraysEListas.runtimeconfig.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\bin\Debug\net5.0\ArraysEListas.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\bin\Debug\net5.0\ArraysEListas.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\bin\Debug\net5.0\ref\ArraysEListas.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\bin\Debug\net5.0\ArraysEListas.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\obj\Debug\net5.0\ArraysEListas.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\obj\Debug\net5.0\ArraysEListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\obj\Debug\net5.0\ArraysEListas.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\obj\Debug\net5.0\ArraysEListas.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\obj\Debug\net5.0\ArraysEListas.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\obj\Debug\net5.0\ArraysEListas.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\obj\Debug\net5.0\ref\ArraysEListas.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\obj\Debug\net5.0\ArraysEListas.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\ArraysEListas\obj\Debug\net5.0\ArraysEListas.genruntimeconfig.cache

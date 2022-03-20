@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturasCondicao", "Estru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturasRepeticao", "EstruturasRepeticao\EstruturasRepeticao.csproj", "{26D41E7C-C394-41E1-B3EB-51FF17981E36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComStrings", "TrabalhandoComStrings\TrabalhandoComStrings.csproj", "{EAC02368-FD80-4697-9D9C-B42C694CA9AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabalhandoComStrings", "TrabalhandoComStrings\TrabalhandoComStrings.csproj", "{EAC02368-FD80-4697-9D9C-B42C694CA9AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysEListas", "ArraysEListas\ArraysEListas.csproj", "{5D31A25B-16A4-4C37-BDA8-200E4F5C5AE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{EAC02368-FD80-4697-9D9C-B42C694CA9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC02368-FD80-4697-9D9C-B42C694CA9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC02368-FD80-4697-9D9C-B42C694CA9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D31A25B-16A4-4C37-BDA8-200E4F5C5AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D31A25B-16A4-4C37-BDA8-200E4F5C5AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D31A25B-16A4-4C37-BDA8-200E4F5C5AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D31A25B-16A4-4C37-BDA8-200E4F5C5AE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

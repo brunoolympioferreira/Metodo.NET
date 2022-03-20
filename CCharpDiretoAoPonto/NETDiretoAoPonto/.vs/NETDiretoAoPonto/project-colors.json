@@ -10,7 +10,12 @@
       "ProjectGuid": "26d41e7c-c394-41e1-b3eb-51ff17981e36",
       "DisplayName": "EstruturasRepeticao",
       "ColorIndex": 1
+    },
+    "eac02368-fd80-4697-9d9c-b42c694ca9ae": {
+      "ProjectGuid": "eac02368-fd80-4697-9d9c-b42c694ca9ae",
+      "DisplayName": "TrabalhandoComStrings",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
