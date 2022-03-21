@@ -15,7 +15,12 @@
       "ProjectGuid": "eac02368-fd80-4697-9d9c-b42c694ca9ae",
       "DisplayName": "TrabalhandoComStrings",
       "ColorIndex": 2
+    },
+    "5d31a25b-16a4-4c37-bda8-200e4f5c5ae7": {
+      "ProjectGuid": "5d31a25b-16a4-4c37-bda8-200e4f5c5ae7",
+      "DisplayName": "ArraysEListas",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

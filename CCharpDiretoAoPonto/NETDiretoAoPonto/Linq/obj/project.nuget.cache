@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rqub4aCFHLe823NBbh7r+FerXLZey57YJ6eQyscuJ5tN8BI+V5Nbzr3mby9N9Gd3nXLfkGTkSN4AzBPCadMTrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\Documents\\Cursos\\Medodo.NET\\CCharpDiretoAoPonto\\NETDiretoAoPonto\\Linq\\Linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
