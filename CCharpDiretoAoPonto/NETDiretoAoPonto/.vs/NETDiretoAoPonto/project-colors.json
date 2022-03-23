@@ -20,7 +20,12 @@
       "ProjectGuid": "5d31a25b-16a4-4c37-bda8-200e4f5c5ae7",
       "DisplayName": "ArraysEListas",
       "ColorIndex": 3
+    },
+    "d5c57ea8-a03e-4814-9dbb-e4a0b69c531a": {
+      "ProjectGuid": "d5c57ea8-a03e-4814-9dbb-e4a0b69c531a",
+      "DisplayName": "Linq",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

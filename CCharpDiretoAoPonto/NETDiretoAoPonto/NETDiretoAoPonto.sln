@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabalhandoComStrings", "Tr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysEListas", "ArraysEListas\ArraysEListas.csproj", "{5D31A25B-16A4-4C37-BDA8-200E4F5C5AE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{D5C57EA8-A03E-4814-9DBB-E4A0B69C531A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{D5C57EA8-A03E-4814-9DBB-E4A0B69C531A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{685231F4-E268-4FB6-802B-08746EE904C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D5C57EA8-A03E-4814-9DBB-E4A0B69C531A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5C57EA8-A03E-4814-9DBB-E4A0B69C531A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5C57EA8-A03E-4814-9DBB-E4A0B69C531A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685231F4-E268-4FB6-802B-08746EE904C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685231F4-E268-4FB6-802B-08746EE904C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685231F4-E268-4FB6-802B-08746EE904C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685231F4-E268-4FB6-802B-08746EE904C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
