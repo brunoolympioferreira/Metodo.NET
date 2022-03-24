@@ -25,7 +25,12 @@
       "ProjectGuid": "d5c57ea8-a03e-4814-9dbb-e4a0b69c531a",
       "DisplayName": "Linq",
       "ColorIndex": 4
+    },
+    "685231f4-e268-4fb6-802b-08746ee904c8": {
+      "ProjectGuid": "685231f4-e268-4fb6-802b-08746ee904c8",
+      "DisplayName": "DateTime",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
