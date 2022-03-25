@@ -35,7 +35,12 @@
       "ProjectGuid": "1aac9118-2795-471c-9577-d371d379f36f",
       "DisplayName": "Diretorios",
       "ColorIndex": 6
+    },
+    "209d758e-3385-43d1-9937-15d5703a0df0": {
+      "ProjectGuid": "209d758e-3385-43d1-9937-15d5703a0df0",
+      "DisplayName": "Depuracao",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

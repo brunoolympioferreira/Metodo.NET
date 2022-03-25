@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\bin\Debug\net5.0\POO.exe
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\bin\Debug\net5.0\POO.deps.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\bin\Debug\net5.0\POO.runtimeconfig.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\bin\Debug\net5.0\POO.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\bin\Debug\net5.0\POO.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\bin\Debug\net5.0\ref\POO.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\bin\Debug\net5.0\POO.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\obj\Debug\net5.0\POO.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\obj\Debug\net5.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\obj\Debug\net5.0\POO.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\obj\Debug\net5.0\POO.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\obj\Debug\net5.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\obj\Debug\net5.0\POO.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\obj\Debug\net5.0\ref\POO.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\obj\Debug\net5.0\POO.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\POO\obj\Debug\net5.0\POO.genruntimeconfig.cache
