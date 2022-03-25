@@ -30,7 +30,12 @@
       "ProjectGuid": "685231f4-e268-4fb6-802b-08746ee904c8",
       "DisplayName": "DateTime",
       "ColorIndex": 5
+    },
+    "1aac9118-2795-471c-9577-d371d379f36f": {
+      "ProjectGuid": "1aac9118-2795-471c-9577-d371d379f36f",
+      "DisplayName": "Diretorios",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

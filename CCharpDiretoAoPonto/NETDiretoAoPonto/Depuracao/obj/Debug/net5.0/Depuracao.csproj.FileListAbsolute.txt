@@ -1,0 +1,16 @@
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\bin\Debug\net5.0\Depuracao.exe
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\bin\Debug\net5.0\Depuracao.deps.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\bin\Debug\net5.0\Depuracao.runtimeconfig.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\bin\Debug\net5.0\Depuracao.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\bin\Debug\net5.0\Depuracao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\bin\Debug\net5.0\ref\Depuracao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\bin\Debug\net5.0\Depuracao.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\obj\Debug\net5.0\Depuracao.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\obj\Debug\net5.0\Depuracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\obj\Debug\net5.0\Depuracao.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\obj\Debug\net5.0\Depuracao.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\obj\Debug\net5.0\Depuracao.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\obj\Debug\net5.0\Depuracao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\obj\Debug\net5.0\ref\Depuracao.dll
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\obj\Debug\net5.0\Depuracao.pdb
+C:\Users\Bruno\Documents\Cursos\Medodo.NET\CCharpDiretoAoPonto\NETDiretoAoPonto\Depuracao\obj\Debug\net5.0\Depuracao.genruntimeconfig.cache

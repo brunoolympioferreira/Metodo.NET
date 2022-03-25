@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTime", "DateTime\DateTime.csproj", "{685231F4-E268-4FB6-802B-08746EE904C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diretorios", "Diretorios\Diretorios.csproj", "{1AAC9118-2795-471C-9577-D371D379F36F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diretorios", "Diretorios\Diretorios.csproj", "{1AAC9118-2795-471C-9577-D371D379F36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Depuracao", "Depuracao\Depuracao.csproj", "{209D758E-3385-43D1-9937-15D5703A0DF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1AAC9118-2795-471C-9577-D371D379F36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AAC9118-2795-471C-9577-D371D379F36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AAC9118-2795-471C-9577-D371D379F36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209D758E-3385-43D1-9937-15D5703A0DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209D758E-3385-43D1-9937-15D5703A0DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209D758E-3385-43D1-9937-15D5703A0DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209D758E-3385-43D1-9937-15D5703A0DF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
