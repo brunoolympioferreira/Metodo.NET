@@ -40,7 +40,12 @@
       "ProjectGuid": "209d758e-3385-43d1-9937-15d5703a0df0",
       "DisplayName": "Depuracao",
       "ColorIndex": 7
+    },
+    "3ffbce0e-59e4-45cf-94cb-508e2f91d79d": {
+      "ProjectGuid": "3ffbce0e-59e4-45cf-94cb-508e2f91d79d",
+      "DisplayName": "POO",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
