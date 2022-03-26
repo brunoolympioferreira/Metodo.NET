@@ -1,6 +1,6 @@
 using System;
 
-namespace DevFreela
+namespace DevFreela.API
 {
     public class WeatherForecast
     {
