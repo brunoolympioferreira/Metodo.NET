@@ -6,7 +6,7 @@ namespace DevFreela.Core.Entities
 {
     public class Project : BaseEntity
     {
-        public Project(string title, string description, int idClient, int idFreelancer, decimal totalCost)
+        public Project(string title, string description, int idClient, int idFreelancer, decimal totalCost) 
         {
             Title = title;
             Description = description;
