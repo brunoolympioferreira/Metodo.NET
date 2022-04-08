@@ -1,17 +1,13 @@
-﻿using DevFreela.API.Models;
-using DevFreela.Application.Commands.CreateComment;
+﻿using DevFreela.Application.Commands.CreateComment;
 using DevFreela.Application.Commands.CreateProject;
 using DevFreela.Application.Commands.DeleteProject;
 using DevFreela.Application.Commands.FinishProject;
 using DevFreela.Application.Commands.StartProject;
 using DevFreela.Application.Commands.UpdateProject;
-using DevFreela.Application.InputModels;
 using DevFreela.Application.Queries.GetAllProjects;
 using DevFreela.Application.Queries.GetProjectById;
-using DevFreela.Application.Services.Interfaces;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Options;
 using System.Threading.Tasks;
 
 namespace DevFreela.API.Controllers
@@ -19,12 +15,10 @@ namespace DevFreela.API.Controllers
     [Route("api/projects")]
     public class ProjectsController : ControllerBase
     {
-        private readonly IProjectService _projectService;
         private readonly IMediator _mediator;
 
-        public ProjectsController(IProjectService projectService, IMediator mediator)
+        public ProjectsController(IMediator mediator)
         {
-            _projectService = projectService;
             _mediator = mediator;
         }
 
@@ -32,7 +26,7 @@ namespace DevFreela.API.Controllers
         public async Task<IActionResult> Get(string query)
         {
             var getAllProjectsQuery = new GetAllProjectsQuery(query);
-            
+
             var projects = await _mediator.Send(getAllProjectsQuery);
 
             return Ok(projects);
@@ -56,7 +50,7 @@ namespace DevFreela.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] CreateProjectCommand command)
         {
-            if(command.Title.Length > 50)
+            if (command.Title.Length > 50)
             {
                 return BadRequest();
             }

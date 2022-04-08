@@ -1,5 +1,4 @@
 ﻿using DevFreela.Application.Queries.GetAllSkils;
-using DevFreela.Application.Services.Interfaces;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
