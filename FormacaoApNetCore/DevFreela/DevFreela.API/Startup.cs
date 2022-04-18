@@ -34,10 +34,10 @@ namespace DevFreela.API
         public void ConfigureServices(IServiceCollection services)
         {
             var connectionString = Configuration.GetConnectionString("DevFreelaCs");
-            services.AddDbContext<DevFreelaDbContext>(options => options.UseSqlServer(connectionString));
+            //services.AddDbContext<DevFreelaDbContext>(options => options.UseSqlServer(connectionString));
 
             //Exemplo de EF em memória:
-            //services.AddDbContext<DevFreelaDbContext>(options => options.UseInMemoryDatabase("DevFreela"));
+            services.AddDbContext<DevFreelaDbContext>(options => options.UseInMemoryDatabase("DevFreela"));
 
             services.AddScoped<IProjectRepository, ProjectRepository>();
             services.AddScoped<ISkillRepository, SkillRepository>();
