@@ -11,8 +11,10 @@
         <li>Tratamento de erros</li>
         <li>Fundamentos POO</li>
     </ul>
-    
-    <h1>Formação ASP.NET Core</h1>
+</body>
+
+<body>
+        <h1>Formação ASP.NET Core</h1>
     <ul>
         <li>.NET 5</li>
         <li>Arquitetura Limpa</li>
@@ -24,4 +26,4 @@
         <li>JWT</li>
         <li>Mensageria e Microsserviços</li>
     </ul>
-</body>
+</body
