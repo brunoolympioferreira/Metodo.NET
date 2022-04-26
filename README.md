@@ -13,6 +13,7 @@
     </ul>
     
     <h1>Formação ASP.NET Core</h1>
+    <ul>
         <li>.NET 5</li>
         <li>Arquitetura Limpa</li>
         <li>CQRS</li>
@@ -22,4 +23,5 @@
         <li>Testes Unitários</li>
         <li>JWT</li>
         <li>Mensageria e Microsserviços</li>
+    </ul>
 </body>
